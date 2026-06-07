@@ -92,11 +92,15 @@ jobs:
           plugin_worldmap: yes
 ```
 
-### Metrics Image
+# 🌎 GitHub Metrics
 
-```md
-![Metrics](https://github.com/Raunak-Sarkar/Raunak-Sarkar/blob/main/github-metrics.svg)
-```
+![Metrics](./github-metrics.svg)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Raunak-Sarkar/Raunak-Sarkar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
