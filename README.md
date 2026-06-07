@@ -1,12 +1,12 @@
-# Hi 👋, I'm Raunak Sarkar
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Graphic+Designer;Open+Source+Contributor;Always+Learning+New+Things" />
+<img src="https://komarev.com/ghpvc/?username=Raunak-Sarkar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-<br>
+# Hi 👋, I'm Raunak Sarkar
 
-<img src="https://komarev.com/ghpvc/?username=Raunak-Sarkar&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+### 🚀 Full Stack Developer | Competitive Programmer | Designer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Graphic+Designer;Open+Source+Contributor;Always+Learning+New+Things" />
 
 </div>
 
@@ -37,17 +37,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-### Frontend
+### Frontend & Backend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-
-### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-
-### Database
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
 ### Tools
@@ -58,7 +52,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
-
 
 # 🏆 Achievements
 
@@ -75,12 +68,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunak-Sarkar&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Sarkar&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raunak-Sarkar&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Sarkar&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak-Sarkar&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Raunak-Sarkar&theme=tokyonight" />
 </p>
 
 ---
@@ -127,7 +120,7 @@ Designer & Core Member
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/raunak-sarkar-424a4425b/" target="_blank">
+<a href="https://www.linkedin.com/in/raunak-sarkar-424a4425b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -139,6 +132,6 @@ Designer & Core Member
 
 ### ⭐ Thanks for visiting my profile!
 
-🚀 Always Learning | Always Building
+🚀 Always Learning • Always Building • Always Improving
 
 </div>
