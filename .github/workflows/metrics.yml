@@ -14,7 +14,7 @@ jobs:
       - uses: lowlighter/metrics@latest
 
         with:
-          user: YOUR_USERNAME
+          user: Raunak-Sarkar
 
           template: classic
 
