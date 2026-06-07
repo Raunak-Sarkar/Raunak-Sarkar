@@ -1,0 +1,51 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+
+        with:
+          user: YOUR_USERNAME
+
+          template: classic
+
+          base: header, activity, community, repositories
+
+          plugin_isocalendar: yes
+
+          plugin_languages: yes
+
+          plugin_lines: yes
+
+          plugin_followup: yes
+
+          plugin_stars: yes
+
+          plugin_topics: yes
+
+          plugin_worldmap: yes
+
+          plugin_repositories: yes
+
+          plugin_traffic: yes
+
+          plugin_habits: yes
+
+          plugin_people: yes
+
+          plugin_achievements: yes
+
+          plugin_notable: yes
+
+          plugin_skyline: yes
+
+          filename: github-metrics.svg
