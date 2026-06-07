@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | Problem Solver | Designer
+# 🚀 Full Stack Developer | Problem Solver | Designer | Competitive Coder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;Competitive+Programmer;Open+Source+Contributor;UI%2FUX+and+Graphic+Designer" alt="Typing SVG" />
 
@@ -43,25 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏋️ Gym Management Platform
-- Authentication, slot booking, fitness plans
-- BMI tracking and recommendation engine
-- MERN stack architecture
-
-### 🏦 Banking Application
-- JWT Authentication
-- Transactions and account management
-- Virtual card system
-
-### 🌦 Weather Application
-- 5-day weather forecast
-- Current location weather
-- Responsive design
-
----
-
 ## 🏆 Achievements
 
 - ⭐ 3 Star CodeChef Programmer
@@ -74,19 +55,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunak-Sarkar&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Sarkar&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak-Sarkar&theme=tokyonight"/>
 </p>
 
 ---
-
-## 🌎 World Map (Same Style Metrics Plugin)
-
-> Replace YOUR_USERNAME below.
+ 
 
 ```yaml
 name: Metrics
@@ -117,14 +95,14 @@ jobs:
 ### Metrics Image
 
 ```md
-![Metrics](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Raunak-Sarkar/Raunak-Sarkar/blob/main/github-metrics.svg)
 ```
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([(https://www.linkedin.com/in/raunak-sarkar-424a4425b/)])
 
 ---
 
